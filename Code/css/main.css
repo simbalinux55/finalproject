@@ -1,0 +1,109 @@
+
+body {
+    background-color: rgb(000,000,000);
+    color:orange;
+    font-family:'Open-sans', sans-serif;
+    font-size:20px;
+}
+#mainheader h1{
+  margin-top: 50px;
+	font-size: 40PX;
+	margin-left: 35%;
+  margin-bottom: 0px;
+  text-decoration:underline;
+}
+
+#mainheader img{
+  margin-top: 5px;
+	margin-left: 35%;
+	margin-bottom:0px;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: orange;
+}
+
+.login form{
+margin: 0% 0% 0% 35%;
+}
+
+.login form:hover{
+	color: orange;
+}
+
+.login form lable{
+color:#fff;
+}
+
+.login form button{
+margin-top:5px;
+background-color:black;
+border: 5px;
+border-color: #fff;
+border:2px solid white;
+padding:10px;
+width:100px;
+color:#fff;
+
+}
+
+.register{
+margin-left: 50px;
+margin-top:5px;
+}
+
+.login form button:hover{
+background-color:orange;
+color:black;
+cursor:pointer;
+}
+
+.login form input{
+	 margin-bottom:10px;
+}
+
+.login form input[type="text"], [type="password"]{
+  width:46%;
+  height:25px;
+
+ 
+}
+
+.login form h1{
+margin-left:0px;
+margin-bottom:25px;
+color:orange;
+font-size:35px;
+text-decoration:underline;
+font-style: italic;
+}
+
+.login form h1:hover{
+color:orange;
+}
+.login form label{
+color:#fff;
+
+}
+
+.login h1{
+margin-top:3%;
+color:orange;
+text-decoration:underline;
+}
+
+.news p{
+color: #fff;
+margin: 15px 35% 0px 35%;
+border:2px solid #fff;
+padding: 10px;
+
+}
+
+.news p:hover{
+	color: orange;
+border:2px solid orange;
+cursor:pointer;
+}
